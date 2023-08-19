@@ -1,2 +1,2 @@
-# Sales_Data_Excel-Dashboard
+# Excel_Dashboard
 Created Charts and Dashboards using Microsoft Excel 
